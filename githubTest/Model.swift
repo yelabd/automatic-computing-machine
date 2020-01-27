@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+// TODO: Implement everything
+
+struct Model {
+    
+}
