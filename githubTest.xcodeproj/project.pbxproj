@@ -15,6 +15,7 @@
 		46DBC56223DFA48500985765 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46DBC56023DFA48500985765 /* LaunchScreen.storyboard */; };
 		46DBC56D23DFA48500985765 /* githubTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DBC56C23DFA48500985765 /* githubTestTests.swift */; };
 		46DBC57823DFA48600985765 /* githubTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DBC57723DFA48600985765 /* githubTestUITests.swift */; };
+		46DBC58623DFA50B00985765 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DBC58523DFA50B00985765 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		46DBC57323DFA48600985765 /* githubTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		46DBC57723DFA48600985765 /* githubTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubTestUITests.swift; sourceTree = "<group>"; };
 		46DBC57923DFA48600985765 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46DBC58523DFA50B00985765 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				46DBC55E23DFA48500985765 /* Assets.xcassets */,
 				46DBC56023DFA48500985765 /* LaunchScreen.storyboard */,
 				46DBC56323DFA48500985765 /* Info.plist */,
+				46DBC58523DFA50B00985765 /* Model.swift */,
 			);
 			path = githubTest;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				46DBC55A23DFA48400985765 /* ViewController.swift in Sources */,
 				46DBC55623DFA48400985765 /* AppDelegate.swift in Sources */,
 				46DBC55823DFA48400985765 /* SceneDelegate.swift in Sources */,
+				46DBC58623DFA50B00985765 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
